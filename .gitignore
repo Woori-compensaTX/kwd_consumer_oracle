@@ -1,0 +1,29 @@
+# Gradle 캐시/빌드
+.gradle/
+build/
+bin/
+
+# IDE 환경
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# OS/임시 파일
+.DS_Store
+Thumbs.db
+
+# 로그 파일
+*.log
+
+# JAR/WAR/EAR 아카이브
+*.jar
+*.war
+*.ear
+
+# Kotlin/Java 컴파일 결과물
+*.class
+
+# 기타
+out/
